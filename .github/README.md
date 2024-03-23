@@ -1,3 +1,6 @@
+## github pages
+https://nephk.github.io/wedding/
+
 ## 要件
 1. topページにテキスト認証を設けて、認証に成功した場合のみに、式の情報を表示できるものとする
 2. 認証に必要な情報は別channelで招待客に連携する
